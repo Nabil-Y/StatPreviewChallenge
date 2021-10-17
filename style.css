@@ -29,13 +29,14 @@ main {
 }
 
 .content {
-    padding: 4rem 6rem;
+    padding: 4rem;
     width: 50%;
 }
 
 h1 {
     margin: 0;
     font-weight: 700;
+    font-size: 2rem;
 }
 
 h2 {
