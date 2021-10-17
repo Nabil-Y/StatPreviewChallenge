@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Live Preview](https://nabil-y.github.io/StatPreviewChallenge/)
+[Live Preview](https://nabil-y.github.io/StatsPreviewChallenge/)
 
 ## My process
 
