@@ -25,11 +25,12 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./design/desktop-solution.jpg)
+
 ![Mobile](./design/mobile-solution.jpg)
 
 ### Links
 
-[Live Preview](https://your-solution-url.com)
+[Live Preview](https://nabil-y.github.io/StatPreviewChallenge/)
 
 ## My process
 
